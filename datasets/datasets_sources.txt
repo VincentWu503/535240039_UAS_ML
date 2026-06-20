@@ -1,0 +1,7 @@
+https://www.bps.go.id/id/statistics-table/2/NDE0IzI=/-metode-baru--umur-harapan-hidup-saat-lahir--uhh---tahun-.html (variabel UHH/ Umur Harapan Hidup saat Lahir)
+
+https://www.bps.go.id/id/statistics-table/2/NDE3IzI=/-metode-baru--harapan-lama-sekolah--tahun-.html (variabel HLS/ Harapan Lama Sekolah)
+
+https://www.bps.go.id/id/statistics-table/2/NDE1IzI=/-metode-baru-rata-rata-lama-sekolah.html (variabel RLS/ Rata-rata Lama Sekolah)
+
+https://www.bps.go.id/id/statistics-table/2/NDE2IzI=/-metode-baru-pengeluaran-per-kapita-disesuaikan.html (variabel Pengeluaran per kapita Disesuaikan dengan PPP (Purchasing Power Parity), berdasarkan booklet BPS)
